@@ -1,0 +1,11 @@
+.\build\mmc-dk-tm4c129x.o: third_party\fatfs\port\mmc-dk-tm4c129x.c
+.\build\mmc-dk-tm4c129x.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\mmc-dk-tm4c129x.o: D:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\inc/hw_memmap.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\inc/hw_types.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\driverlib/gpio.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\driverlib/rom.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\driverlib/ssi.h
+.\build\mmc-dk-tm4c129x.o: ..\MCU\driverlib/sysctl.h
+.\build\mmc-dk-tm4c129x.o: .\third_party\fatfs/src/diskio.h
+.\build\mmc-dk-tm4c129x.o: .\third_party\fatfs/src/integer.h

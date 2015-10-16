@@ -1,0 +1,12 @@
+.\build\fs.o: third_party\lwip-1.4.1\apps\httpserver_raw\fs.c
+.\build\fs.o: .\third_party\lwip-1.4.1\src\include\lwip/opt.h
+.\build\fs.o: .\web\lwipopts.h
+.\build\fs.o: .\third_party\lwip-1.4.1\src\include\lwip/debug.h
+.\build\fs.o: .\third_party\lwip-1.4.1\src\include\lwip/arch.h
+.\build\fs.o: .\third_party\lwip-1.4.1\ports\tiva-tm4c129\include\arch/cc.h
+.\build\fs.o: .\third_party\lwip-1.4.1\src\include\lwip/opt.h
+.\build\fs.o: .\third_party\lwip-1.4.1\src\include\lwip/def.h
+.\build\fs.o: third_party\lwip-1.4.1\apps\httpserver_raw\fs.h
+.\build\fs.o: third_party\lwip-1.4.1\apps\httpserver_raw\fsdata.h
+.\build\fs.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\build\fs.o: third_party\lwip-1.4.1\apps\httpserver_raw\fsdata.c

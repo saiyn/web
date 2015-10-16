@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Project\TRIAD\Triad.RackAmp700.MCU.Application\trunk\MCU\Rock700AMP.uvproj
+Project File Date:  06/17/2015
+
+<h2>Output:</h2>
+Build target 'Rock700AMP'
+compiling CS485XX.c...
+.\Dsp\api_doc.h(379): warning:  #1-D: last line of file ends without a newline
+.\Dsp\initial.h(495): warning:  #1-D: last line of file ends without a newline
+.\Dsp\kickstart.h(14): warning:  #1-D: last line of file ends without a newline
+.\Dsp\prekickstart.h(59): warning:  #1-D: last line of file ends without a newline
+.\Dsp\os_p4_48520_01_01_rc79.h(591): warning:  #1-D: last line of file ends without a newline
+.\Dsp\TriadRackAmp700_p4_48520_01_0100.h(3100): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=123954 RO-data=388218 RW-data=1068 ZI-data=167308  
+After Build - User command #1: fromelf --bin --output .\build\TRIADFIR.bin .\build\Rock700AMP.axf
+".\build\Rock700AMP.axf" - 0 Errors, 6 Warning(s).
+Build target 'Rock700AMP'
+compiling CS485XX.c...
+.\Dsp\api_doc.h(379): warning:  #1-D: last line of file ends without a newline
+.\Dsp\initial.h(495): warning:  #1-D: last line of file ends without a newline
+.\Dsp\kickstart.h(14): warning:  #1-D: last line of file ends without a newline
+.\Dsp\prekickstart.h(59): warning:  #1-D: last line of file ends without a newline
+.\Dsp\os_p4_48520_01_01_rc79.h(591): warning:  #1-D: last line of file ends without a newline
+.\Dsp\TriadRackAmp700_p4_48520_01_0100.h(3100): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=123954 RO-data=388218 RW-data=1068 ZI-data=167308  
+After Build - User command #1: fromelf --bin --output .\build\TRIADFIR.bin .\build\Rock700AMP.axf
+".\build\Rock700AMP.axf" - 0 Errors, 6 Warning(s).

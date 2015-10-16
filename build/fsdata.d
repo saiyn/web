@@ -1,0 +1,10 @@
+.\build\fsdata.o: third_party\lwip-1.4.1\apps\httpserver_raw\fsdata.c
+.\build\fsdata.o: third_party\lwip-1.4.1\apps\httpserver_raw\fs.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\src\include\lwip/opt.h
+.\build\fsdata.o: .\web\lwipopts.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\src\include\lwip/debug.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\src\include\lwip/arch.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\ports\tiva-tm4c129\include\arch/cc.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\src\include\lwip/opt.h
+.\build\fsdata.o: .\third_party\lwip-1.4.1\src\include\lwip/def.h
+.\build\fsdata.o: third_party\lwip-1.4.1\apps\httpserver_raw\fsdata.h
